@@ -1,0 +1,6 @@
+# Ignore folders
+/build
+/dist
+/myenv
+# Ignore files
+main.spec
