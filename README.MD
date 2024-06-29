@@ -1,5 +1,5 @@
 # Terrain Converter
-*File download: https://serwerentazis.quickconnect.to/d/s/z4hpWRFozIXdlaGqxLmNmcn83hc9UwDh/cKQVD-AU__qI3Q_wE2_5GUfUHc_X5zwK-OrFAByRZeQs
+*File exe version download: https://serwerentazis.quickconnect.to/d/s/z4hpWRFozIXdlaGqxLmNmcn83hc9UwDh/cKQVD-AU__qI3Q_wE2_5GUfUHc_X5zwK-OrFAByRZeQs
 
 ## Description
 
