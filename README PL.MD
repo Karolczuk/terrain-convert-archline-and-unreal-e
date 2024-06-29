@@ -1,5 +1,6 @@
 # Terrain converter
 *Pobierz wersję exe: https://serwerentazis.quickconnect.to/d/s/z4hpWRFozIXdlaGqxLmNmcn83hc9UwDh/cKQVD-AU__qI3Q_wE2_5GUfUHc_X5zwK-OrFAByRZeQs
+*Tutorial - jak korzystać z konwertera: https://youtu.be/xCaH5lte604
 
 ## Opis
 
